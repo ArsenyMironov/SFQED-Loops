@@ -28,7 +28,7 @@ This list is totally not comprehensive, but these references may serve as a star
 SFQED calculations are known to be lengthy and both hard to perform by hands and to represent in print. As an example, one may spend months struggling to recompute the 1-loop results from the paper [V. I. Ritus, Radiative corrections in quantum electrodynamics with intense field and their
 analytical properties, Ann. Phys. 69, 555 (1972)]. Computer algebra can be a lifesaver, allowing both to elaborate results efficiently and present full-length calculations. 
 
-The aim of the SFQED-Loops scripts is
+The aims of the SFQED-Loops script collection are
 1. presentation a detailed calculation of a number of loop diagrams;
 2. development of an approach that will allow to proceed further in studies of SFQED higher-order loop or other types of processes;
 3. to accompany the following papers, containing the results and their analysis: 
@@ -40,7 +40,7 @@ The aim of the SFQED-Loops scripts is
 ## Contents
 Each script (except _definitions.nb_) presents a full-length calculation of a QED diagram in a strong constant crossed field (CCF). Almost every file contains detailed comments, an explanation of prerequisites and the formulation of the main result at the end of the file.
 
-For more detailed information about the general approach, notations etc, please, see our papers 
+For more details about the general approach, notations etc, please, see our papers 
 1. https://doi.org/10.1103/PhysRevD.102.053005 (https://arxiv.org/abs/2003.06909)
 2. https://arxiv.org/abs/2109.00634
 
@@ -88,7 +88,7 @@ A PDF version of each script is included for reference, so that you can study th
 
 Each script depends on _definitions.nb_. It should be placed in the same local directory as the script of your interest. Every other script is independent and can be loaded separately. To perform a calculation, load the script and execute it. 
 
-_definitions.nb_ contains general definitions of the functions and symbolic substitutions in use. It is recommended to study this script first.
+_definitions.nb_ contains general definitions of the functions and symbolic substitutions in use. It is recommended to study this script first if you are interested in technical details.
 
 
 ## Contribute
