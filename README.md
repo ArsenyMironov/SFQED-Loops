@@ -44,24 +44,26 @@ For more detailed information about the general approach, notations etc, please,
 1. https://doi.org/10.1103/PhysRevD.102.053005 (https://arxiv.org/abs/2003.06909)
 2. https://arxiv.org/abs/2109.00634
 
-###The list of diagrams
+### The list of diagrams
 
-####The 1st-order electron propagator in a CCF in the proper time representation
+#### The 1st-order electron propagator in a CCF in the proper time representation
+![alt text](./images/1st_order_electron_prop.png)
 _LO e propagator (proper time).nb_
 
 The script shows how to transform the electron propagator in the Ritus E-p representation into the proper time representation (in accordance with J. Schwinger's result)
 
-####The bubble-chain photon propagator in a CCF in the proper time representation
+#### The bubble-chain photon propagator in a CCF in the proper time representation
+![](./images/bubble-chain_photon.png)
 _bubble-chain photon propagator (proper time).nb_
 
 Transformation of the bubble-chain photon propagator in the momentum representation (obtained by N.B. Narozhny) into the proper time representation
 
-####The exact (dressed by radiative corrections) electron propagator in a CCF in the proper time representation
+#### The exact (dressed by radiative corrections) electron propagator in a CCF in the proper time representation
 _exact e propagator (proper time).nb_
 
 Transformation of the exact electron propagator into the proper time representation. The starting point is the dressed electron propagator in the Ritus E-p representation accounting for the full set of radiative corrections. It is spanned by the set of gamma-matrix operators specific to the CCF.
 
-####The bubble-chain mass operator
+#### The bubble-chain mass operator
 _bubble-chain mass operator.nb_
 
 The script shows the full calculation of the resummed electron mass operator in the bubble-chain approximation. The starting point is the 1st-order electron propagator (see 'LO e propagator (proper time).nb') and the bubble-chain photon propagator (see 'bubble-chain photon propagator (proper time).nb') in the proper time representation. 
@@ -93,7 +95,7 @@ Usage of these scripts in your studies is welcomed. If they appear to be useful 
     - https://arxiv.org/abs/2109.00634
 
 
-##Credits
+## Credits
 Arseny Mironov - main developer (https://scholar.google.ru/citations?user=GQwNEuwAAAAJ)
 
 Alexander Fedotov - scientific guidance (https://scholar.google.ru/citations?user=LLaBL-EAAAAJ)
