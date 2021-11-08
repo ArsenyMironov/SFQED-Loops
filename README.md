@@ -47,24 +47,30 @@ For more detailed information about the general approach, notations etc, please,
 ### The list of diagrams
 
 #### The 1st-order electron propagator in a CCF in the proper time representation
-<img src="./images/1st_order_electron_prop.png" width="100">
-_LO e propagator (proper time).nb_
+<img src="./images/1st_order_electron_prop.png" width="250">
+
+Filename: _LO e propagator (proper time).nb_
 
 The script shows how to transform the electron propagator in the Ritus E-p representation into the proper time representation (in accordance with J. Schwinger's result)
 
 #### The bubble-chain photon propagator in a CCF in the proper time representation
-![](./images/bubble-chain_photon.png)
-_bubble-chain photon propagator (proper time).nb_
+<img src="./images/bubble-chain_photon.png">
+
+Filename: _bubble-chain photon propagator (proper time).nb_
 
 Transformation of the bubble-chain photon propagator in the momentum representation (obtained by N.B. Narozhny) into the proper time representation
 
 #### The exact (dressed by radiative corrections) electron propagator in a CCF in the proper time representation
-_exact e propagator (proper time).nb_
+<img src="./images/exact_electron.png">
+
+Filename: _exact e propagator (proper time).nb_
 
 Transformation of the exact electron propagator into the proper time representation. The starting point is the dressed electron propagator in the Ritus E-p representation accounting for the full set of radiative corrections. It is spanned by the set of gamma-matrix operators specific to the CCF.
 
 #### The bubble-chain mass operator
-_bubble-chain mass operator.nb_
+<img src="./images/bubble-chain_mass_op.png" width="250">
+
+Filename: _bubble-chain mass operator.nb_
 
 The script shows the full calculation of the resummed electron mass operator in the bubble-chain approximation. The starting point is the 1st-order electron propagator (see 'LO e propagator (proper time).nb') and the bubble-chain photon propagator (see 'bubble-chain photon propagator (proper time).nb') in the proper time representation. 
 
