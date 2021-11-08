@@ -47,7 +47,7 @@ For more detailed information about the general approach, notations etc, please,
 ### The list of diagrams
 
 #### The 1st-order electron propagator in a CCF in the proper time representation
-![alt text](./images/1st_order_electron_prop.png)
+![](./images/1st_order_electron_prop.png | width=100)
 _LO e propagator (proper time).nb_
 
 The script shows how to transform the electron propagator in the Ritus E-p representation into the proper time representation (in accordance with J. Schwinger's result)
