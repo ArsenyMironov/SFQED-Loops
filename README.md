@@ -1,6 +1,8 @@
 # SFQED-Loops
 This is a collection of Mathematica scripts developed for calculating loop processes in Strong-Field QED specifically in a constant crossed external electromagnetic field.
 
+[![DOI](https://zenodo.org/badge/401858226.svg)](https://zenodo.org/badge/latestdoi/401858226)
+
 ## What is it about?
 
 This repository contains some specific tools for theoretical studies of interacting electrons, positrons and photons in a very strong (constant crossed) external electromagnetic field, namely, Strong-Field Quantum Electrodynamics. This project is devoted particularly to calculation of some loop corrections to SFQED processes like photon polarization and electron mass operators at one- and higher-loop levels.
