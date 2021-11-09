@@ -32,38 +32,38 @@ The aims of the SFQED-Loops script collection are
 1. presentation a detailed calculation of a number of loop diagrams;
 2. development of an approach that will allow to proceed further in studies of SFQED higher-order loop or other types of processes;
 3. to accompany the following papers, containing the results and their analysis: 
-	- A. A. Mironov, S. Meuren, and A. M. Fedotov, PRD 102, 053005 (2020), 
+	- A. A. Mironov, A. M. Fedotov https://arxiv.org/abs/2109.00634 (2021)
+	- A. A. Mironov, S. Meuren, and A. M. Fedotov, PRD 102, 053005 (2020),
       https://doi.org/10.1103/PhysRevD.102.053005 
-    - A. A. Mironov, A. M. Fedotov https://arxiv.org/abs/2109.00634.
 
 
 ## Contents
 Each script (except _definitions.nb_) presents a full-length calculation of a QED diagram in a strong constant crossed field (CCF). Almost every file contains detailed comments, an explanation of prerequisites and the formulation of the main result at the end of the file.
 
 For more details about the general approach, notations etc, please, see our papers 
-1. https://doi.org/10.1103/PhysRevD.102.053005 (https://arxiv.org/abs/2003.06909)
-2. https://arxiv.org/abs/2109.00634
+1. https://arxiv.org/abs/2109.00634
+2. https://doi.org/10.1103/PhysRevD.102.053005 (https://arxiv.org/abs/2003.06909)
 
 ### The list of diagrams
 
-#### The 1st-order electron propagator in a CCF in the proper time representation
-<img src="./images/1st_order_electron_prop.png" width="250">
+#### The tree-level electron propagator in a CCF in the proper time representation
+<img src="./images/tree-level_electron_prop.png" width="250">
 
-Filename: _LO e propagator (proper time).nb_
+Filename: _tree-level e propagator.nb_
 
 The script shows how to transform the electron propagator in the Ritus E-p representation into the proper time representation (in accordance with J. Schwinger's result)
 
 #### The bubble-chain photon propagator in a CCF in the proper time representation
 <img src="./images/bubble-chain_photon.png">
 
-Filename: _bubble-chain photon propagator (proper time).nb_
+Filename: _bubble-chain photon propagator.nb_
 
 Transformation of the bubble-chain photon propagator in the momentum representation (obtained by N.B. Narozhny) into the proper time representation
 
 #### The exact (dressed by radiative corrections) electron propagator in a CCF in the proper time representation
 <img src="./images/exact_electron.png">
 
-Filename: _exact e propagator (proper time).nb_
+Filename: _exact e propagator.nb_
 
 Transformation of the exact electron propagator into the proper time representation. The starting point is the dressed electron propagator in the Ritus E-p representation accounting for the full set of radiative corrections. It is spanned by the set of gamma-matrix operators specific to the CCF.
 
