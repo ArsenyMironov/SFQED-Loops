@@ -79,9 +79,11 @@ The script shows the full calculation of the resummed electron mass operator in 
 
 ## Prerequisites and known issues
 
-The SFQED-Loops scripts are developed and tested in Wolfram Mathematica 11.2 and rely on the package [FeynCalc](https://feyncalc.github.io/) 9.2.0.
+The SFQED-Loops scripts are developed and tested in Wolfram Mathematica 12.0 and rely on the package [FeynCalc](https://feyncalc.github.io/) 9.3.1.
 
-There are known issues (to be fixed) with later versions of [FeynCalc](https://feyncalc.github.io/), as there are some slight changes in FeynCalc syntax starting from 9.3 (e.g. for the Levi-Civita tensor in D dimensions, see '''Eps''' in [FeynCalc reference](https://feyncalc.github.io/reference))
+The previous version of SFQED-Loops for [FeynCalc](https://feyncalc.github.io/) 9.2.0 was moved to the corresponding directory.
+
+The versions basically differ by the syntax for the Levi-Civita tensor in D dimensions, see '''Eps''' in [FeynCalc reference](https://feyncalc.github.io/reference))
 
 A PDF version of each script is included for reference, so that you can study them without running in Mathematica.
 
