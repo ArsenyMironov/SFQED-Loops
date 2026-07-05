@@ -1,7 +1,7 @@
 # SFQED-Loops
 This is a collection of Mathematica scripts developed for calculating loop processes in Strong-Field QED specifically in a constant crossed external electromagnetic field.
 
-[![DOI](https://zenodo.org/badge/401858226.svg)](https://zenodo.org/badge/latestdoi/401858226)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.21211407.svg)](https://doi.org/10.5281/zenodo.21211407)
 
 ## What is it about?
 
