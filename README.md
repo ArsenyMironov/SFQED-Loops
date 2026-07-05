@@ -37,6 +37,7 @@ The aims of the SFQED-Loops script collection are
 	- A. A. Mironov, A. M. Fedotov https://arxiv.org/abs/2109.00634 (2021)
 	- A. A. Mironov, S. Meuren, and A. M. Fedotov, PRD 102, 053005 (2020),
       https://doi.org/10.1103/PhysRevD.102.053005 
+    - Y. V. Selivanov, A. A. Mironov, A. I.  Alexeenko, A. M. Fedotov arXiV:2605.12479 (2026) https://arxiv.org/abs/2605.12479 
 
 
 ## Contents
@@ -75,6 +76,14 @@ Transformation of the exact electron propagator into the proper time representat
 Filename: _bubble-chain mass operator.nb_
 
 The script shows the full calculation of the resummed electron mass operator in the bubble-chain approximation. The starting point is the 1st-order electron propagator (see 'LO e propagator (proper time).nb') and the bubble-chain photon propagator (see 'bubble-chain photon propagator (proper time).nb') in the proper time representation. 
+
+
+#### The trident process rate
+<img src="./images/trident_Wdirect.png" width="250">
+
+Filename: _trident_process_tree_lvl_Wdirect_
+
+The script shows the full calculation of the contribution to the trident process rate (creation of an electron-positron pair by a relativistic electron, mediated by a photon) from the so-called direct diagram. The calculation is done at the tree level. This notebook is a supplement for paper arXiV:2605.12479 (2026), in which we show that the same result can be obtained by a two-loop electron elastic scattering amplitude.
 
 
 ## Prerequisites and known issues
