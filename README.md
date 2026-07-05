@@ -79,9 +79,9 @@ The script shows the full calculation of the resummed electron mass operator in 
 
 
 #### The trident process rate
-<img src="./images/trident_Wdirect.png" width="250">
+<img src="./images/trident_Wdirect.png" width="350">
 
-Filename: _trident_process_tree_lvl_Wdirect_
+Filename: _trident_process_tree_lvl_Wdirect.nb_
 
 The script shows the full calculation of the contribution to the trident process rate (creation of an electron-positron pair by a relativistic electron, mediated by a photon) from the so-called direct diagram. The calculation is done at the tree level. This notebook is a supplement for paper arXiV:2605.12479 (2026), in which we show that the same result can be obtained by a two-loop electron elastic scattering amplitude.
 
